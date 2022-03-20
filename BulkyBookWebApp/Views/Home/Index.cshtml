@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+    ViewData["Instructor"] = "Bhrugen Patel";
+    ViewData["YouTubeVideoLink"] = "https://www.youtube.com/watch?v=hZ1DASYd9rk";
+    ViewData["DhrumilPortfolioLink"] = "https://dhrumilshah.vercel.app/";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Information</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Instructor</td>
+                <td>@ViewData["Instructor"]</td>
+            </tr>
+            <tr>
+                <td>YouTube Video Link</td>
+                <td>
+                    <div class="btn-group">
+                    <a class="btn btn-light" href="@ViewData["YouTubeVideoLink"]" target="_blank">
+                        <i class="bi bi-youtube"></i>&nbsp; YouTube
+                    </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>Dhrumil Portfolio Link</td>
+                <td>
+                    
+                    <div class="btn-group">
+                    <a class="btn btn-light w-25" href="@ViewData["DhrumilPortfolioLink"]" target="_blank" >
+                        <i class="bi bi-globe"></i>&nbsp; Portfolio
+                    </a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
