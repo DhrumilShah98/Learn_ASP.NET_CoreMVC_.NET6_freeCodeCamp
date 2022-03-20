@@ -1,12 +1,12 @@
 # [ASP.NET Core MVC (.NET 6) Tutorial](https://www.youtube.com/watch?v=hZ1DASYd9rk)
 
-
 This tutorial teaches basics of .NET Core (.NET 6) and how to build a simple CRUD application with MVC. 
 
 Course developed by [Bhrugen Patel](https://github.com/bhrugen). Check out his [YouTube](https://dotnetmastery.com/) channel for more great programming courses.
 
 ## ⭐ Content ⭐️
-Section 1: Introduction
+
+Section 1: Introduction<br/>
 ⌨️ [(0:00:00)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=0s) Welcome<br/>
 ⌨️ [(0:02:22)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=142s) Live Preview<br/>
 ⌨️ [(0:04:10)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=250s) Tools Needed<br/>
@@ -24,7 +24,7 @@ Section 1: Introduction
 ⌨️ [(0:54:40)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=3280s) Action Result<br/>
 ⌨️ [(0:58:18)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=3498s) Hot Reload<br/>
 
-Section 2: Database Setup 
+Section 2: Database Setup<br/>
 ⌨️ [(1:02:10)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=3730s) Create Category Model<br/>
 ⌨️ [(1:06:45)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=4005s) Add Data Annotations<br/>
 ⌨️ [(1:08:40)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=4120s) Add Connection String<br/>
@@ -32,7 +32,7 @@ Section 2: Database Setup
 ⌨️ [(1:21:35)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=4895s) Setup Program.cs to use DbContext<br/>
 ⌨️ [(1:26:07)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=5167s) Check Database<br/>
 
-Section 3: Category CRUD Operations
+Section 3: Category CRUD Operations<br/>
 ⌨️ [(1:33:19)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=5599s) Create Category Controller<br/>
 ⌨️ [(1:37:50)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=5870s) Retrieve all Categories<br/> 
 ⌨️ [(1:43:55)](https://www.youtube.com/watch?v=hZ1DASYd9rk&t=6235s) Display all Categories<br/>
